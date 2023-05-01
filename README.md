@@ -4,7 +4,7 @@ My name is Pedro Henrique, I'm a brazilian Data Scientist in love with Python Ma
 
 
 
-📫 How to reach me: p.henrique.a.s66@gmail.com | [LinkedIn](https://www.linkedin.com/in/pedro-henrique-a-silva/)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pedro-henrique-a-silva/)
 
 
 - 🌱 I’m currently learning more about Web development fullstack, Data Analysis, Machine Learning, Artificial Inteligence.
