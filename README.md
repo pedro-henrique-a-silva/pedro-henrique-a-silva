@@ -8,8 +8,8 @@ My name is Pedro Henrique, I'm a brazilian Data Scientist in love with Python Ma
 
 
 - 🌱 I’m currently learning more about Web development fullstack, Data Analysis, Machine Learning, Artificial Inteligence.
-- 👯 Techs & Tools: Python, SQL, HTML, PHP, javascript, Docker, Cloud, GCP, Databricks, AzureML.
-- 🔭 I’m currently working on creating ML and AI projects.
+- 👯 Techs & Tools: Python, SQL, HTML,CSS, PHP, javascript, Docker, Cloud, GCP, Databricks, AzureML.
+- 🔭 I’m currently working on develop my Web developer skills, creating ML and AI projects.
 - 💬 Ask me about python.
 
 -->
