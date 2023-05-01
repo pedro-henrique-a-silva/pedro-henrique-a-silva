@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Pedro Henrique, I'm a brazilian Data Scientist in love with Python Machine Learning and all sorts of AI applications.
+My name is Pedro Henrique, I'm a brazilian Programer in love with Web development, Python, Machine Learning and all sorts of AI applications.
 
 
 
