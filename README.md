@@ -30,5 +30,8 @@ My name is Pedro Henrique, I'm a brazilian Programer in love with Web developmen
            
 
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=pedro-henrique-a-silva&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pedro-henrique-a-silva&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pedro-henrique-a-silva&hide=stars&show_icons=true&theme=apprentice&line_height=32" alt="informações de commits, pull requests, issues e contribuições" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-henrique-a-silva&count_private=true&theme=apprentice" alt="informações sobre tecnologias mais usadas" />
+</p>
 
