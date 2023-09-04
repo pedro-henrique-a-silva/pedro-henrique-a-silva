@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-My name is Pedro Henrique, I'm a brazilian Programer in love with Web development, Python, Machine Learning and all sorts of AI applications.
+My name is Pedro Henrique, I'm a brazilian Programer in love with Web development, Python, Machine Learning.
 
 
 
 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/pedro-henrique-a-silva/)
 
 
-- 🌱 I’m currently graduating as fullstack Web developmer.
+- 🌱 I’m currently graduating as fullstack Web developer.
 - 👯 Techs & Tools:<br/>
 ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)
