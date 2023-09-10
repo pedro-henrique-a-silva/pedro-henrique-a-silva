@@ -32,6 +32,6 @@ My name is Pedro Henrique, I'm a brazilian Programer in love with Web developmen
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pedro-henrique-a-silva&hide=stars&show_icons=true&theme=apprentice&line_height=32" alt="informações de commits, pull requests, issues e contribuições" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-henrique-a-silva&count_private=true&theme=apprentice" alt="informações sobre tecnologias mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedro-henrique-a-silva&theme=apprentice" alt="informações sobre tecnologias mais usadas" />
 </p>
 
