@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hello 👋
 
-My name is Pedro Henrique, I'm a brazilian Programer in love with Web development, Python, Machine Learning.
+My name is Pedro Silva, I'm a developer passionate about writing code.
 
 
 
@@ -26,6 +26,14 @@ My name is Pedro Henrique, I'm a brazilian Programer in love with Web developmen
 ![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Mochajs](https://img.shields.io/badge/mocha.js-323330?style=for-the-badge&logo=mocha&logoColor=Brown)
+![Chaijs](https://img.shields.io/badge/chai.js-323330?style=for-the-badge&logo=chai&logoColor=red)
+![Sinonjs](https://img.shields.io/badge/sinon.js-323330?style=for-the-badge&logo=sinon)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgress](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 - 🔭 I’m currently working on develop my Web developer skills.
            
 
